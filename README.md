@@ -98,5 +98,9 @@ API integration and data visualization are widely used in industries such as sof
 
 In conclusion, this task successfully demonstrates the use of Python for API integration and data visualization. By using Python IDLE, OpenWeatherMap API, and Matplotlib, real-time data was fetched, processed, and visualized effectively. This task helped in developing practical skills related to API handling, data processing, and visualization, which are essential for modern software and data-driven applications.
 
+#OUTPUT
+
+<img width="1313" height="686" alt="Image" src="https://github.com/user-attachments/assets/d6ab081a-72e6-41ae-a2a3-b99f1a9fd4b7" />
+
 
 
