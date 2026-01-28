@@ -12,7 +12,7 @@
 
 *MENTOR*: Neela Santhosh
 
-# API Integration and Data Visualization – Task 2 Description
+# API Integration and Data Visualization – Task 1 Description
 The API Integration and Data Visualization task was carried out to understand how external data sources can be integrated into a Python application and how the collected data can be represented visually for better interpretation. This task plays an important role in modern software development, as many real-world applications depend on real-time data fetched from public or private APIs. The objective of this task was to fetch live weather data from a public API and visualize the data using Python libraries.
 
 For this task, Python was used as the primary programming language due to its simplicity, flexibility, and strong support for data handling and visualization. The development was performed using Python IDLE (Python 3.13), which is the default Integrated Development Environment (IDE) that comes bundled with Python. Python IDLE was selected because it is beginner-friendly and suitable for understanding the fundamental concepts of API integration, JSON data processing, and graphical representation of data.
